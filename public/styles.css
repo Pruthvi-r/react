@@ -1,0 +1,16 @@
+.heading {
+  color: green;
+  font-style: italic;
+}
+.entry {
+  height: 100px;
+  width: 100px;
+}
+ul {
+  color: darkmagenta;
+}
+.react-img {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+}
